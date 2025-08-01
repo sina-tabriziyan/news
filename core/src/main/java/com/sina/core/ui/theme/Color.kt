@@ -1,4 +1,4 @@
-package com.sina.news.ui.theme
+package com.sina.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
